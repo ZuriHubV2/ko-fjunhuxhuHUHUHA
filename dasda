@@ -151,20 +151,20 @@ ProgressText.Parent = MainFrame
 local entertainment = {
     tips = {
         "🎯 Fun Fact: 6 7",
-        "🚀 Did you know? This dupe method was discovered by accident",
-        "💎 Never trade your secrets before duping",
-        "🎪 Tung Tung Tung Sahur beats Lirili Larila",
-        "🌟 Dupe your secrets",
+        "🚀 Did you know? In 1667...",
+        "🦉 Meowls are real!!!",
+        "🌟 Zibzibzib",
+        "🐵 W speed!",
     },
     facts = {
         "🧠 ZuriScripts birthday is 6/7🤣",
         "🎲 This script is supported by Delta",
         "⏰ This duplication process uses advanced server manipulation",
         "🌍 ZuriScripts is Filipino 😲",
-        "🔢 The algorithm processes 1000+ calculations per second",
-        "🎯 Only 10% of people who play SAB knows about this",
-        "💻 This script contains over 1000+ lines of optimized code",
-        "🚀 This is the first working SAB dupe!",
+        "🔢 The algorithm processes 800+ calculations per second",
+        "🎯 ZuriScripts made GAG Spawner too",
+        "💻 This script contains over 800+ lines of optimized code",
+        "🚀 first working SAB dupe!",
     }
 }
 
